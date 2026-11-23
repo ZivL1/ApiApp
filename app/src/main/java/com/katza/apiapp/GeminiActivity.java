@@ -32,7 +32,7 @@ public class GeminiActivity extends AppCompatActivity {
 
     TextView tvAnswer;
     private static final String TAG = "GeminiDebug";
-    private static final String MODEL_NAME = "gemini-3.5-flash";
+    private static final String MODEL_NAME = "gemini-4-hydrogen";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
